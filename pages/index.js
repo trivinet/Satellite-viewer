@@ -60,7 +60,7 @@ export default function Home() {
           <Link href="/docu">
           <a className={styles.card}>
           <div className={styles.imageGif}>
-            <img href = "/docu" src ={'https://s6.gifyu.com/images/gifDocu.gif'}/>
+            <img href = "/docu" src ={'https://s9.gifyu.com/images/SaHZY.gif'}/>
           </div>
             <h2 style={{'fontSize':'36px', 'fontFamily':['Alumni Sans Pinstripe', 'sans-serif']}}>{(lng=='ESP')?('Documentación'):('Documentation')}</h2>
             <p style={{'fontFamily':['Alumni Sans Pinstripe', 'sans-serif']}}>{(lng=='ESP')?('Encuentra información en profundidad sobre TLEs, Mecánica Orbital y más.'):('Find in-depth information about TLEs, Orbital Mechanics and more.')}</p>
@@ -70,7 +70,7 @@ export default function Home() {
           <Link href="/map">
           <a className={styles.card}>
           <div className={styles.imageGif}>
-            <img href = "/map" src ={'https://s6.gifyu.com/images/gifMap2D.gif'}/>
+            <img href = "/map" src ={'https://s12.gifyu.com/images/SaHZr.gif'}/>
           </div>
             <h2 style={{'fontSize':'36px'}}>{(lng=='ESP')?('Mapa 2D'):('2D Map')}</h2>
             <p style={{'fontFamily':['Alumni Sans Pinstripe', 'sans-serif']}}>{(lng=='ESP')?('Aprende sobre trazas, objetos orbitales y ubicaciones en un mapa 3D interactivo con los satélites disponibles en tiempo real.'):
@@ -82,7 +82,7 @@ export default function Home() {
           <Link href="/map3D">
           <a className={styles.card}>
           <div className={styles.imageGif}>
-            <img href = "/map3D" src ={'https://s6.gifyu.com/images/gifMap3D94990f84b961d5f6.gif'}/>
+            <img href = "/map3D" src ={'https://s12.gifyu.com/images/SaHZt.gif'}/>
           </div>
             <h2 style={{'fontSize':'36px'}}>{(lng=='ESP')?('Mapa 3D'):('3D Map')}</h2>
             <p>
